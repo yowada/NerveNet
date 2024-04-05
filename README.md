@@ -7,7 +7,7 @@ This repository is the record of setting up tools and utilities for the nervenet
 
 ### 1. [Setting up the lanner devices.](https://github.com/yowada/NerveNet/blob/main/setup/lanner.md)
 ### 2. [Creating mesh network and testing](https://github.com/yowada/NerveNet/blob/main/mesh/mesh.md)
-### 3. [Testing Database syncing across base stations](https://github.com/yowada/NerveNet/blob/main/dbsync/dbsync.md)
+### 3. [Testing Database syncing across base stations](https://github.com/yowada/NerveNet/blob/main/database/dbsync.md)
 ### 3. [Android app testing](https://github.com/yowada/NerveNet/blob/main/android/android.md)
 ### 4. [VPN testing](https://github.com/yowada/NerveNet/blob/main/vpn/vpn.md)
 
