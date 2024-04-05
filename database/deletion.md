@@ -1,0 +1,1 @@
+Only additions can be made to tables. If deletion is necessary, use the flag_invalid column; records with flag_invalid != 0 are treated as deleted on the application side. Also, set the time_discard column of the record to be deleted to the appropriate date and time. Records after time_discard are automatically deleted by the system.
