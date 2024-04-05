@@ -5,12 +5,12 @@ Nervenet is a regional-area network for access to the Internet and for resilient
 
 This repository is the record of setting up tools and utilities for the nervenet testing. The are several steps which is listed below in numerical order.
 
-### 1. [Setting up the lanner devices.](https://github.com/yowada/NerveNet/blob/master/setup/lanner.md)
-### 2. [Creating mesh network and testing](https://github.com/yowada/NerveNet/blob/master/mesh/mesh.md)
-### 3. [Testing Database syncing across base stations](https://github.com/yowada/NerveNet/blob/master/dbsync/dbsync.md)
-### 3. [Android app testing](https://github.com/yowada/NerveNet/blob/master/android/android.md)
-### 4. [VPN testing](https://github.com/yowada/NerveNet/blob/master/vpn/vpn.md)
+### 1. [Setting up the lanner devices.](https://github.com/yowada/NerveNet/setup/lanner.md)
+### 2. [Creating mesh network and testing](https://github.com/yowada/NerveNet/mesh/mesh.md)
+### 3. [Testing Database syncing across base stations](https://github.com/yowada/NerveNet/dbsync/dbsync.md)
+### 3. [Android app testing](https://github.com/yowada/NerveNet/android/android.md)
+### 4. [VPN testing](https://github.com/yowada/NerveNet/vpn/vpn.md)
 
 Misc
-### - [Setting up router on raspberry pi](https://github.com/yowada/NerveNet/blob/master/router_pi/router.md)
-### - [Hosting a website with map containing custom data type](https://github.com/yowada/NerveNet/blob/master/site/site.md)
+### - [Setting up router on raspberry pi](https://github.com/yowada/NerveNet/router_pi/router.md)
+### - [Hosting a website with map containing custom data type](https://github.com/yowada/NerveNet/site/site.md)
