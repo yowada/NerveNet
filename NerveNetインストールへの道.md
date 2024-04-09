@@ -56,6 +56,14 @@ user:admin
 password:password
 nervenet管理画面にログインし各種設定の閲覧や変更が可能
 
+ネットワークの中で１台だけ経路木管理ツールコンテナを動かす必要があります。
+ptmgrコンテナはnervenet-installer/containerの下に配置されています。
+
+~~~
+# docker load < nervenet-ptmgr-node10-1.1.4.docker.tar.gz
+# docker run --name=nervenet-ptmgr -d --network=host --mount type=bind,src=/writable/personal,dst=/writable/personal --mount type=bind,src=/var/log,dst=/var/log --restart always nervenet-ptmgr-node10:1.1.4
+~~~
+
 ---
 
 不要な常駐モジュールの停止などが必要な場合
